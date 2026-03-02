@@ -1,5 +1,7 @@
 # ezhuth (Qt 5.12)
 
+![Melezhuth1.png]
+![screenshot.png]
 **ezhuth** is a lightweight desktop screen writing tool developed for teaching purposes.
 It allows writing and drawing directly on the screen during classes, presentations, and demonstrations.
 
